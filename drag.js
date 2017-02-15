@@ -13,6 +13,8 @@ window.onload = function(){
             document.onmouseup = null;
         };
     };
+  oDiv2 = document.getElementById('div2');
+    oDiv2.document
 };
 /**
  * Created by asus on 2017/2/15.
